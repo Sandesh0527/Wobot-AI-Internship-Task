@@ -2,3 +2,4 @@
 >git checkout
 >git branch -r
 >git switch suraj
+> git merge 8-Jan-Practice-of-branching
